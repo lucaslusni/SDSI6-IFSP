@@ -1,0 +1,10 @@
+[
+  {
+    "codigo": "AZ203",
+    "origem": "VCP",
+    "destino": "FLL",
+    "horario": "14:20",
+    "companhia": "Azul",
+    "operando": "F"
+  }
+]

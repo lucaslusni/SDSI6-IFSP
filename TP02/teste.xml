@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blog>
+  <artigos linguagem="asp.net">
+    <artigo>
+      <titulo>DataSet para XML em ASP.NET / C#</titulo>
+      <url>http://cbsa.com.br/post/dataset-para-xmlem-aspnet-c.aspx</url>
+    </artigo>
+    <artigo>
+      <titulo>XML para DataSet em ASP.NET / C#</titulo>
+      <url>http://cbsa.com.br/post/xml-para-datasetem-aspnet-c.aspx</url>
+    </artigo>
+    <artigo>
+      <titulo>Ler arquivo XML usando XmlTextReader e XmlDocument em C# - ASP.NET</titulo>
+      <url>http://cbsa.com.br/post/ler-arquivo-xmlusando-xmltextreader-e-xmldocument-em-c---aspnet.aspx</url>
+    </artigo>
+  </artigos>
+  <artigos linguagem="C#">
+    <artigo>
+      <titulo>Calcular idade em C#</titulo>
+      <url>http://cbsa.com.br/post/calcular-idadeem-c.aspx</url>
+    </artigo>
+  </artigos>
+</blog>
