@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<biblioteca>
+  <livro codigo="A12345">
+    <titulo>Sistemas Distribuidos</titulo>
+    <autor>Tanembaum</autor>
+    <editora>Pearson</editora>
+    <emprestimo>S</emprestimo>
+  </livro>
+  <livro codigo="A12345">
+    <titulo>Programando em C#</titulo>
+    <autor>Deitel</autor>
+    <editora></editora>
+    <emprestimo>N</emprestimo>
+  </livro>
+</biblioteca>

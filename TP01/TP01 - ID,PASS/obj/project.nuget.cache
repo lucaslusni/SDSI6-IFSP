@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gLCP8W6f/M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lusni\\Documents\\GitHub\\PDMI6\\TP01\\TP01 - ID,PASS\\TP01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lusni\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.34\\microsoft.windows.sdk.net.ref.10.0.19041.34.nupkg.sha512"
+  ],
+  "logs": []
+}

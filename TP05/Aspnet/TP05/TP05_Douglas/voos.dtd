@@ -1,0 +1,9 @@
+<!ELEMENT movimento (voo+)>
+<!ELEMENT voo (origem, destino, horario, compania, operando)>
+<!ATTLIST voo codigo CDATA #REQUIRED>
+
+<!ELEMENT origem (#PCDATA)>
+<!ELEMENT destino (#PCDATA)>
+<!ELEMENT horario (#PCDATA)>
+<!ELEMENT compania (#PCDATA)>
+<!ELEMENT operando (#PCDATA)>

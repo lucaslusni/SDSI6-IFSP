@@ -1,0 +1,7 @@
+<!ELEMENT biblioteca (livro+)>
+<!ELEMENT livro (titulo, autor, editora, emprestimo)>
+<!ATTLIST livro codigo ID #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT editora (#PCDATA)>
+<!ELEMENT emprestimo (#PCDATA)>
