@@ -12,7 +12,7 @@ namespace JsonIntroduction
 {
     public partial class Index : System.Web.UI.Page
     {
-        private const string JsonFilePath = "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribuídos\\SDSI6-IFSP\\TP02\\voos.json";
+        private const string JsonFilePath = ("C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\voos.json");
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -48,7 +48,7 @@ namespace JsonIntroduction
                 var selectedData = new List<Voo> { selectedVoo };
                 var selectedJson = JsonConvert.SerializeObject(selectedData, Formatting.Indented);
 
-                File.WriteAllText("C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribuídos\\SDSI6-IFSP\\TP02\\selectedVoo.json", selectedJson); // Caminho para o arquivo JSON selecionado
+                File.WriteAllText("C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\selectedVoo.json", selectedJson); // Caminho para o arquivo JSON selecionado
             }
         }
     }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribu\u00EDdos\\SDSI6-IFSP\\TP02\\XmlIntroduction\\",
+  "WorkspaceRootPath": "C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|c:\\users\\dougl\\onedrive\\documentos\\ifsp\\sistemas distribu\u00EDdos\\sdsi6-ifsp\\tp02\\xmlintroduction\\xmlintroduction\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|c:\\users\\lusni\\documents\\github\\sdsi6-ifsp\\tp02\\xmlintroduction\\xmlintroduction\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|solutionrelative:xmlintroduction\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|c:\\users\\dougl\\onedrive\\documentos\\ifsp\\sistemas distribu\u00EDdos\\sdsi6-ifsp\\tp02\\xmlintroduction\\xmlintroduction\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\xmlintroduction\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D4693AD5-2031-4426-A052-229AADA6CE3F}|XmlIntroduction\\XmlIntroduction.csproj|solutionrelative:xmlintroduction\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribu\u00EDdos\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx.cs",
               "RelativeDocumentMoniker": "XmlIntroduction\\Index.aspx.cs",
-              "ToolTip": "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribu\u00EDdos\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx.cs",
               "RelativeToolTip": "XmlIntroduction\\Index.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAsAAAA",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv0wAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T17:06:48.517Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.aspx",
-              "DocumentMoniker": "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribu\u00EDdos\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx",
               "RelativeDocumentMoniker": "XmlIntroduction\\Index.aspx",
-              "ToolTip": "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribu\u00EDdos\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx",
+              "ToolTip": "C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\XmlIntroduction\\XmlIntroduction\\Index.aspx",
               "RelativeToolTip": "XmlIntroduction\\Index.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-15T17:06:19.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T17:06:19.943Z"
             }
           ]
         }

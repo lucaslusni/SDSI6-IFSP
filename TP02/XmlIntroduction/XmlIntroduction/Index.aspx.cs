@@ -15,7 +15,7 @@ namespace XmlIntroduction
         protected void Page_Load(object sender, EventArgs e)
         {
             XmlDocument documento = new XmlDocument();
-            documento.Load("C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribuídos\\SDSI6-IFSP\\TP02\\voos.xml");
+            documento.Load("C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\voos.xml");
             XmlNodeReader nos = new XmlNodeReader(documento);
             int endentar = -1;
 
@@ -72,7 +72,7 @@ namespace XmlIntroduction
 
             // Caminho onde o arquivo será salvo, no meu caso será:
             // C:\inetpub\wwwroot\exemplos\exemplo3.xml
-            string strFilePath = "C:\\Users\\Dougl\\OneDrive\\Documentos\\IFSP\\Sistemas Distribuídos\\SDSI6-IFSP\\TP02\\teste.xml";
+            string strFilePath = ("C:\\Users\\Lusni\\Documents\\GitHub\\SDSI6-IFSP\\TP02\\voos.xml");
 
             // Esta linha indica que o arquivo XML será salvo, diferente dos outros exemplos
             XmlTextWriter xtw = new XmlTextWriter(strFilePath, Encoding.UTF8);
