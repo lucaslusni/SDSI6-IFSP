@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="pedidos.xsl"?>
+<pedidos>
+    <pedido>
+        <produto>Notebook</produto>
+        <quantidade>15</quantidade>
+        <preco>4500</preco>
+    </pedido>
+    <pedido>
+        <produto>Smartphone</produto>
+        <quantidade>8</quantidade>
+        <preco>2500</preco>
+    </pedido>
+    <pedido>
+        <produto>Teclado</produto>
+        <quantidade>20</quantidade>
+        <preco>150</preco>
+    </pedido>
+    <pedido>
+        <produto>Mouse</produto>
+        <quantidade>5</quantidade>
+        <preco>80</preco>
+    </pedido>
+</pedidos>
